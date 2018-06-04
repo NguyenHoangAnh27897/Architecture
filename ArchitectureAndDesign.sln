@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceRecruiment", "Servic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHumanResource", "ServiceHumanResource\ServiceHumanResource.csproj", "{49EC8991-3218-4877-ADAC-13232E20B7C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityRecruiment", "EntityRecruiment\EntityRecruiment.csproj", "{AB0620C9-2058-498C-96AB-7B8CA13F2925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityHumanResource", "EntityHumanResource\EntityHumanResource.csproj", "{D541F464-F2F6-4DFB-972B-8C799DE4A681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{49EC8991-3218-4877-ADAC-13232E20B7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49EC8991-3218-4877-ADAC-13232E20B7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49EC8991-3218-4877-ADAC-13232E20B7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0620C9-2058-498C-96AB-7B8CA13F2925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0620C9-2058-498C-96AB-7B8CA13F2925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0620C9-2058-498C-96AB-7B8CA13F2925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0620C9-2058-498C-96AB-7B8CA13F2925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D541F464-F2F6-4DFB-972B-8C799DE4A681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D541F464-F2F6-4DFB-972B-8C799DE4A681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D541F464-F2F6-4DFB-972B-8C799DE4A681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D541F464-F2F6-4DFB-972B-8C799DE4A681}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
